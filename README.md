@@ -1,4 +1,4 @@
-# 机场APP - 6月27日20.8M/S|免费Shadowrocket/Clash/V2ray/SSR节点推荐，VPN节点购买推荐  更新时间 2025-06-27 10:10:13
+# 机场APP - 7月5日20.7M/S|免费V2ray/SSR/Clash/Shadowrocket节点推荐，VPN节点购买推荐  更新时间 2025-07-05 09:50:17
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://jichangapp.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://jichangapp.github.io/uploads/2025/06/0-20250627.yaml
-- https://jichangapp.github.io/uploads/2025/06/1-20250627.yaml
-- https://jichangapp.github.io/uploads/2025/06/2-20250627.yaml
-- https://jichangapp.github.io/uploads/2025/06/3-20250627.yaml
-- https://jichangapp.github.io/uploads/2025/06/4-20250627.yaml
+- https://jichangapp.github.io/uploads/2025/07/0-20250705.yaml
+- https://jichangapp.github.io/uploads/2025/07/1-20250705.yaml
+- https://jichangapp.github.io/uploads/2025/07/2-20250705.yaml
+- https://jichangapp.github.io/uploads/2025/07/3-20250705.yaml
+- https://jichangapp.github.io/uploads/2025/07/4-20250705.yaml
 
 ### V2ray订阅链接
 
-- https://jichangapp.github.io/uploads/2025/06/0-20250627.txt
-- https://jichangapp.github.io/uploads/2025/06/1-20250627.txt
-- https://jichangapp.github.io/uploads/2025/06/2-20250627.txt
-- https://jichangapp.github.io/uploads/2025/06/3-20250627.txt
-- https://jichangapp.github.io/uploads/2025/06/4-20250627.txt
+- https://jichangapp.github.io/uploads/2025/07/0-20250705.txt
+- https://jichangapp.github.io/uploads/2025/07/1-20250705.txt
+- https://jichangapp.github.io/uploads/2025/07/2-20250705.txt
+- https://jichangapp.github.io/uploads/2025/07/3-20250705.txt
+- https://jichangapp.github.io/uploads/2025/07/4-20250705.txt
 
 ### Sing-box订阅链接
 
-- https://jichangapp.github.io/uploads/2025/06/20250627.json
+- https://jichangapp.github.io/uploads/2025/07/20250705.json
 
 ## 更多clash节点订阅 ：
 
